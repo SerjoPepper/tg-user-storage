@@ -1,0 +1,25 @@
+{
+  "name": "tg-user-storage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerjoPepper/tg-user-storage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerjoPepper/tg-user-storage/issues"
+  },
+  "homepage": "https://github.com/SerjoPepper/tg-user-storage#readme",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "deep-diff": "^0.3.2",
+    "lodash": "^3.10.1",
+    "redis": "^1.0.0"
+  }
+}
